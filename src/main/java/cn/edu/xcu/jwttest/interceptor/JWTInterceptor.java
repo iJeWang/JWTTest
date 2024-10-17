@@ -1,6 +1,6 @@
-package cn.edu.xcu.jwtauth.interceptor;
+package cn.edu.xcu.jwttest.interceptor;
 
-import cn.edu.xcu.jwtauth.utils.JWTUtil;
+import cn.edu.xcu.jwttest.utils.JWTUtil;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import org.springframework.web.servlet.HandlerInterceptor;

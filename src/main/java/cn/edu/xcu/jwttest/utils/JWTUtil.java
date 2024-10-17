@@ -1,4 +1,4 @@
-package cn.edu.xcu.jwtauth.utils;
+package cn.edu.xcu.jwttest.utils;
 
 import com.auth0.jwt.JWT;
 import com.auth0.jwt.JWTCreator;

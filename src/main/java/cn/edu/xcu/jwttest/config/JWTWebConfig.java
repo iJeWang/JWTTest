@@ -1,6 +1,6 @@
-package cn.edu.xcu.jwtauth.config;
+package cn.edu.xcu.jwttest.config;
 
-import cn.edu.xcu.jwtauth.interceptor.JWTInterceptor;
+import cn.edu.xcu.jwttest.interceptor.JWTInterceptor;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
