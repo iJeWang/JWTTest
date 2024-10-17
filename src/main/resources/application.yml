@@ -1,0 +1,4 @@
+app:
+  jwt:
+    secret: fo5./ERR7#0GFS^D3245\1`FEF./s5f-da9hgf0h+dfh>hty<rt
+    expire: 3600000
